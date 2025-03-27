@@ -187,7 +187,7 @@ const Features = () => {
                         maxWidth: '500px'
                       }}
                     >
-                      Let's explore the limitless possibilities of virtual reality with our cutting-edge technology.
+                      Let&apos;s explore the limitless possibilities of virtual reality with our cutting-edge technology.
                     </p>
                     <button 
                       className="btn px-4 py-2" 

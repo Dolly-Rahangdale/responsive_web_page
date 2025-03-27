@@ -1,9 +1,6 @@
 import React from 'react';
 import Image from 'next/image';
-import image2 from '../assets/images.jpeg';
-import ellipseImage from '../assets/626b7e512931fca6a1cd33a2_Ellipse.png';
 import vrImage1 from '../assets/images (1).jpeg';
-import vrImage2 from '../assets/images (2).jpeg';
 import vrImage3 from '../assets/download (1).jpeg';
 import vrImage4 from '../assets/GettyImages-1405467489.jpg';
 // import 'https://fonts.googleapis.com/css2?family=Orbitron:wght@600&display=swap';
@@ -192,7 +189,7 @@ export default function HeroSection() {
             }}>
               <h3 className="text-white mb-2" style={{ fontSize: '26px', fontWeight: '700' }}>Cinematic Virtual Reality</h3>
               <p className="text-white-50 mb-0" style={{ fontSize: '15px', lineHeight: '1.7' }}>
-                Let's be the best for more real and effective results.
+                Let&apos;s be the best for more real and effective results.
               </p>
             </div>
             <div className="new-experience" style={{
